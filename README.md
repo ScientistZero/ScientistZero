@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Chris Herzig (aka [@scientistzero](https://github.com/scientistzero))
-
+“Void main() — let’s build something from nothing.”
 I'm a C# developer, AI enthusiast, and all-around curious builder. I like clean code, clever projects, and putting real ideas into action. Whether I’m creating something practical or playful, I believe software should feel smooth and satisfying.
 
 ## 🚧 Currently Building
