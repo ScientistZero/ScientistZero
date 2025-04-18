@@ -38,5 +38,3 @@ I'm a C# developer, AI enthusiast, and all-around curious builder. I like clean 
 
 ---
 
-_“Void main() — let’s build something from nothing.”_
-
